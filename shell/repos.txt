@@ -1,0 +1,2 @@
+https://github.com/gcc-mirror/gcc.git
+https://github.com/torvalds/linux.git

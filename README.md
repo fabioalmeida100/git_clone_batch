@@ -1,4 +1,8 @@
-# Clone git repos shell
+# Clone git repos Shell/Powershell
+
+## Introduction
+
+This is a simple Shell/Powershell script to clone git repos from github or gitlab.
 
 ## Usage
 
@@ -9,6 +13,13 @@ Then you can run the script:
 ```shell
 $ bash clone_repos.sh
 ```
+
+or
+
+```powershell
+PS> .\clone_repos.ps1
+```
+
 Enjoy it!
 
 ## Important
